@@ -1,0 +1,11 @@
+C:\Projetos\NewPDV.Domain\bin\Debug\net8.0\NewPDV.Domain.deps.json
+C:\Projetos\NewPDV.Domain\bin\Debug\net8.0\NewPDV.Domain.dll
+C:\Projetos\NewPDV.Domain\bin\Debug\net8.0\NewPDV.Domain.pdb
+C:\Projetos\NewPDV.Domain\obj\Debug\net8.0\NewPDV.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\NewPDV.Domain\obj\Debug\net8.0\NewPDV.Domain.AssemblyInfoInputs.cache
+C:\Projetos\NewPDV.Domain\obj\Debug\net8.0\NewPDV.Domain.AssemblyInfo.cs
+C:\Projetos\NewPDV.Domain\obj\Debug\net8.0\NewPDV.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\NewPDV.Domain\obj\Debug\net8.0\NewPDV.Domain.dll
+C:\Projetos\NewPDV.Domain\obj\Debug\net8.0\refint\NewPDV.Domain.dll
+C:\Projetos\NewPDV.Domain\obj\Debug\net8.0\NewPDV.Domain.pdb
+C:\Projetos\NewPDV.Domain\obj\Debug\net8.0\ref\NewPDV.Domain.dll

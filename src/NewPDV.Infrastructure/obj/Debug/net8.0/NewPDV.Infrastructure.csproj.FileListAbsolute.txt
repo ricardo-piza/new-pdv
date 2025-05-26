@@ -1,0 +1,17 @@
+C:\Projetos\NewPDV.Infrastructure\bin\Debug\net8.0\NewPDV.Infrastructure.deps.json
+C:\Projetos\NewPDV.Infrastructure\bin\Debug\net8.0\NewPDV.Infrastructure.runtimeconfig.json
+C:\Projetos\NewPDV.Infrastructure\bin\Debug\net8.0\NewPDV.Infrastructure.dll
+C:\Projetos\NewPDV.Infrastructure\bin\Debug\net8.0\NewPDV.Infrastructure.pdb
+C:\Projetos\NewPDV.Infrastructure\bin\Debug\net8.0\NewPDV.Domain.dll
+C:\Projetos\NewPDV.Infrastructure\bin\Debug\net8.0\NewPDV.Domain.pdb
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\NewPDV.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\NewPDV.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\NewPDV.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\NewPDV.Infrastructure.AssemblyInfo.cs
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\NewPDV.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\NewPDV.I.DD64EBC8.Up2Date
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\NewPDV.Infrastructure.dll
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\refint\NewPDV.Infrastructure.dll
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\NewPDV.Infrastructure.pdb
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\NewPDV.Infrastructure.genruntimeconfig.cache
+C:\Projetos\NewPDV.Infrastructure\obj\Debug\net8.0\ref\NewPDV.Infrastructure.dll

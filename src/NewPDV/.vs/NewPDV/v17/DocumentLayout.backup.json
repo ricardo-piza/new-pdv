@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\NewPDV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA5F6F9-2DDA-4E7F-BB6C-97F8A6A6C1D8}|NewPDV.Application.csproj|c:\\projetos\\newpdv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA5F6F9-2DDA-4E7F-BB6C-97F8A6A6C1D8}|NewPDV.Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\interfaces\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\interfaces\\iuow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1566F5CA-D52E-48F8-95F3-173EE5765CBA}|..\\NewPDV.Infrastructure\\NewPDV.Infrastructure.csproj|c:\\projetos\\newpdv.infrastructure\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1566F5CA-D52E-48F8-95F3-173EE5765CBA}|..\\NewPDV.Infrastructure\\NewPDV.Infrastructure.csproj|c:\\projetos\\newpdv.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\interfaces\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\dtos\\listparametersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1566F5CA-D52E-48F8-95F3-173EE5765CBA}|..\\NewPDV.Infrastructure\\NewPDV.Infrastructure.csproj|c:\\projetos\\newpdv.infrastructure\\transactions\\uow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\newpdv.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA5F6F9-2DDA-4E7F-BB6C-97F8A6A6C1D8}|NewPDV.Application.csproj|c:\\projetos\\newpdv\\newpdv.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BA5F6F9-2DDA-4E7F-BB6C-97F8A6A6C1D8}|NewPDV.Application.csproj|solutionrelative:newpdv.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA5F6F9-2DDA-4E7F-BB6C-97F8A6A6C1D8}|NewPDV.Application.csproj|c:\\projetos\\newpdv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BA5F6F9-2DDA-4E7F-BB6C-97F8A6A6C1D8}|NewPDV.Application.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1566F5CA-D52E-48F8-95F3-173EE5765CBA}|..\\NewPDV.Infrastructure\\NewPDV.Infrastructure.csproj|c:\\projetos\\newpdv.infrastructure\\repositories\\salesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1566F5CA-D52E-48F8-95F3-173EE5765CBA}|..\\NewPDV.Infrastructure\\NewPDV.Infrastructure.csproj|c:\\projetos\\newpdv.infrastructure\\mappings\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1566F5CA-D52E-48F8-95F3-173EE5765CBA}|..\\NewPDV.Infrastructure\\NewPDV.Infrastructure.csproj|c:\\projetos\\newpdv.infrastructure\\context\\newpdvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\entities\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\entities\\enums\\esalestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\entities\\enums\\eproductstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|..\\NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\newpdv.domain\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA5F6F9-2DDA-4E7F-BB6C-97F8A6A6C1D8}|NewPDV.Application.csproj|C:\\Projetos\\NewPDV\\forms\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BA5F6F9-2DDA-4E7F-BB6C-97F8A6A6C1D8}|NewPDV.Application.csproj|solutionrelative:forms\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 310,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:54:28.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Services\\EventService.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Services\\EventService.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Services\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:54:22.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListParametersDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Dtos\\ListParametersDto.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Dtos\\ListParametersDto.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Dtos\\ListParametersDto.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Dtos\\ListParametersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:49:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\Repositories\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Interfaces\\Repositories\\IEventRepository.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\Repositories\\IEventRepository.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Interfaces\\Repositories\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:47:41.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:47:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\ISaleService.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Interfaces\\ISaleService.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\ISaleService.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Interfaces\\ISaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:46:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:45:52.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:45:31.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewPDV.Domain",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\NewPDV.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\NewPDV.Domain.csproj",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\NewPDV.Domain.csproj",
+              "RelativeToolTip": "..\\NewPDV.Domain\\NewPDV.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T23:31:09.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUow.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\IUow.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Interfaces\\IUow.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Interfaces\\IUow.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Interfaces\\IUow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:35:42.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Uow.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Infrastructure\\Transactions\\Uow.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Infrastructure\\Transactions\\Uow.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Infrastructure\\Transactions\\Uow.cs",
+              "RelativeToolTip": "..\\NewPDV.Infrastructure\\Transactions\\Uow.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:31:29.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Infrastructure\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Infrastructure\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Infrastructure\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "..\\NewPDV.Infrastructure\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T00:08:30.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:09:53.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Services\\SaleService.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Services\\SaleService.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Services\\SaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:55:24.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NewPDVContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Infrastructure\\Context\\NewPDVContext.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Infrastructure\\Context\\NewPDVContext.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Infrastructure\\Context\\NewPDVContext.cs",
+              "RelativeToolTip": "..\\NewPDV.Infrastructure\\Context\\NewPDVContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T00:03:36.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NewPDV.Application.csproj",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV\\NewPDV.Application.csproj",
+              "RelativeDocumentMoniker": "NewPDV.Application.csproj",
+              "ToolTip": "C:\\Projetos\\NewPDV\\NewPDV.Application.csproj",
+              "RelativeToolTip": "NewPDV.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T23:53:40.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\NewPDV.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T00:09:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SalesRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Infrastructure\\Repositories\\SalesRepository.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Infrastructure\\Repositories\\SalesRepository.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Infrastructure\\Repositories\\SalesRepository.cs",
+              "RelativeToolTip": "..\\NewPDV.Infrastructure\\Repositories\\SalesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T00:08:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projetos\\NewPDV\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T23:54:03.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Infrastructure\\Mappings\\Mapper.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Infrastructure\\Mappings\\Mapper.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Infrastructure\\Mappings\\Mapper.cs",
+              "RelativeToolTip": "..\\NewPDV.Infrastructure\\Mappings\\Mapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:45:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Dtos\\EventDto.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Dtos\\EventDto.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Dtos\\EventDto.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Dtos\\EventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:32:45.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EProductStatus.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Entities\\Enums\\EProductStatus.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Entities\\Enums\\EProductStatus.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Entities\\Enums\\EProductStatus.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Entities\\Enums\\EProductStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:54:02.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Dtos\\ItemDto.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Dtos\\ItemDto.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Dtos\\ItemDto.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Dtos\\ItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:39:31.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Entities\\Item.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Entities\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:38:45.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:36:43.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Dtos\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Dtos\\ProductDTO.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Dtos\\ProductDTO.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Dtos\\ProductDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:35:51.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SaleDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Dtos\\SaleDTO.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Dtos\\SaleDTO.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Dtos\\SaleDTO.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Dtos\\SaleDTO.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:34:56.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Entities\\Sale.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Entities\\Sale.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Entities\\Sale.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:18:23.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ESaleStatus.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Entities\\Enums\\ESaleStatus.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Entities\\Enums\\ESaleStatus.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Entities\\Enums\\ESaleStatus.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Entities\\Enums\\ESaleStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:27:29.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Entities\\Audit.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Entities\\Audit.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Entities\\Audit.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Entities\\Audit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:20:44.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV.Domain\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "..\\NewPDV.Domain\\Entities\\Event.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV.Domain\\Entities\\Event.cs",
+              "RelativeToolTip": "..\\NewPDV.Domain\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:14:30.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.cs [Projeto]",
+              "DocumentMoniker": "C:\\Projetos\\NewPDV\\Forms\\App.cs",
+              "RelativeDocumentMoniker": "Forms\\App.cs",
+              "ToolTip": "C:\\Projetos\\NewPDV\\Forms\\App.cs [Projeto]",
+              "RelativeToolTip": "Forms\\App.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:06:55.504Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2020,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 382,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
