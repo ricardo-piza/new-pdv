@@ -1,6 +1,8 @@
-﻿using NewPDV.Domain.Dtos;
+﻿using Microsoft.EntityFrameworkCore;
+using NewPDV.Domain.Dtos;
 using NewPDV.Domain.Entities;
 using NewPDV.Domain.Interfaces.Repositories;
+using NewPDV.Infrastructure.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +13,19 @@ namespace NewPDV.Infrastructure.Repositories
 {
     public class ProductRepository : IProductRepository
     {
-        public Task<Product> Create(Product product)
+        private readonly NewPDVContext _context;
+
+        public ProductRepository(
+            NewPDVContext context
+            )
         {
-            throw new NotImplementedException();
+            _context = context;
+        }
+
+        public async Task<Product> Create(Product product)
+        {
+            var _product = await _context.Products.AddAsync(product);
+            return _product.Entity;
         }
 
         public Task<Product> Delete(Guid id)

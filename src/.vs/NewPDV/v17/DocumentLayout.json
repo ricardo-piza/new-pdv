@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\new-pdv\\src\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\new-pdv\\src\\newpdv.domain\\contexts\\notificationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|solutionrelative:newpdv.domain\\contexts\\notificationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\new-pdv\\src\\newpdv.domain\\interfaces\\inotificationscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|solutionrelative:newpdv.domain\\interfaces\\inotificationscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\new-pdv\\src\\newpdv.domain\\contexts\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|solutionrelative:newpdv.domain\\contexts\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\new-pdv\\src\\newpdv.domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|solutionrelative:newpdv.domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\new-pdv\\src\\newpdv.domain\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|solutionrelative:newpdv.domain\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|c:\\projetos\\new-pdv\\src\\newpdv.domain\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F229B96-593F-4DB5-BBD5-F59A3E31B117}|NewPDV.Domain\\NewPDV.Domain.csproj|solutionrelative:newpdv.domain\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1566F5CA-D52E-48F8-95F3-173EE5765CBA}|NewPDV.Infrastructure\\NewPDV.Infrastructure.csproj|c:\\projetos\\new-pdv\\src\\newpdv.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1566F5CA-D52E-48F8-95F3-173EE5765CBA}|NewPDV.Infrastructure\\NewPDV.Infrastructure.csproj|solutionrelative:newpdv.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Contexts\\NotificationContext.cs",
+              "RelativeDocumentMoniker": "NewPDV.Domain\\Contexts\\NotificationContext.cs",
+              "ToolTip": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Contexts\\NotificationContext.cs",
+              "RelativeToolTip": "NewPDV.Domain\\Contexts\\NotificationContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwEoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:58:33.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Contexts\\Notification.cs",
+              "RelativeDocumentMoniker": "NewPDV.Domain\\Contexts\\Notification.cs",
+              "ToolTip": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Contexts\\Notification.cs",
+              "RelativeToolTip": "NewPDV.Domain\\Contexts\\Notification.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:55:57.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotificationsContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Interfaces\\INotificationsContext.cs",
+              "RelativeDocumentMoniker": "NewPDV.Domain\\Interfaces\\INotificationsContext.cs",
+              "ToolTip": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Interfaces\\INotificationsContext.cs",
+              "RelativeToolTip": "NewPDV.Domain\\Interfaces\\INotificationsContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:54:49.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "NewPDV.Domain\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "NewPDV.Domain\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:51:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "NewPDV.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "NewPDV.Domain\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:51:49.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "NewPDV.Domain\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Projetos\\new-pdv\\src\\NewPDV.Domain\\Services\\ProductService.cs",
+              "RelativeToolTip": "NewPDV.Domain\\Services\\ProductService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:50:56.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\new-pdv\\src\\NewPDV.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "NewPDV.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Projetos\\new-pdv\\src\\NewPDV.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "NewPDV.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:47:34.2Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
